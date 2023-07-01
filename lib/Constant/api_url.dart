@@ -1,0 +1,11 @@
+const String getNowPlayingUrl = "https://api.themoviedb.org/3/movie/now_playing";
+const String getUpcomingUrl = "https://api.themoviedb.org/3/movie/upcoming";
+const String getPopularMovieUrl = 'https://api.themoviedb.org/3/movie/popular';
+const String getMovieDetailUrl = "https://api.themoviedb.org/3/movie/";
+const String image342Url = 'https://image.tmdb.org/t/p/w342';
+const String image500Url = 'https://image.tmdb.org/t/p/w500';
+const String image780Url = 'https://image.tmdb.org/t/p/w780';
+const String imageOriginalUrl = 'https://image.tmdb.org/t/p/original';
+const String getOnTheAirTvUrl = "https://api.themoviedb.org/3/tv/on_the_air";
+const String getPopularTvUrl = "https://api.themoviedb.org/3/tv/popular";
+const String getTvDetailUrl = "https://api.themoviedb.org/3/tv/";
